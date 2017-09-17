@@ -1,0 +1,28 @@
+{
+	"atomic_save": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"detect_indentation": false,
+	"font_face": "Roboto Mono",
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"predawn_sidebar_large": true,
+	"predawn_tabs_active_underline": true,
+	"show_encoding": true,
+	"sidebar_row_padding_medium": true,
+	"sidebar_size_12": true,
+	"tab_size": 4,
+	"tabs_medium": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

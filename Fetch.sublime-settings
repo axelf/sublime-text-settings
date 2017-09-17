@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"jquery": "https://code.jquery.com/jquery-2.2.4.min.js",
+		"normalizeCSS": "https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css",
+		"requireJS": "http://requirejs.org/docs/release/2.1.9/minified/require.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}

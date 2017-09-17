@@ -1,0 +1,14 @@
+{
+    // an array of options to pass to jslint.
+    "options" : [
+
+
+        // suggest an indent level of two spaces.
+        "--indent", "4"
+        ,"--sloppy"
+
+
+
+    ]
+
+}
