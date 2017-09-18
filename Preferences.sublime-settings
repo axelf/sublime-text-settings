@@ -3,7 +3,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"color_scheme": "Packages/Theme - Alpenglow/Alpenglow.tmTheme",
 	"detect_indentation": false,
 	"font_face": "Roboto Mono",
 	"font_size": 16,
@@ -22,7 +22,7 @@
 	"sidebar_size_12": true,
 	"tab_size": 4,
 	"tabs_medium": true,
-	"theme": "Afterglow.sublime-theme",
+	"theme": "Alpenglow.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
